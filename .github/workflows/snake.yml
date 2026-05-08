@@ -31,9 +31,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # GitHub Token disediakan otomatis oleh GitHub Action
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+          # Menggunakan Personal Access Token (PAT) untuk membaca kontribusi private
+          GITHUB_TOKEN: ${{ secrets.PAT_SNAKE }}
       # Step 2: Mengupload/push file SVG yang dihasilkan ke branch bernama 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
