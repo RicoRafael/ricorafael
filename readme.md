@@ -11,7 +11,6 @@
   </p>
   
   <br>
-  <!-- Widget Kutipan Acak & Visitor Counter -->
   <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Daily Quote" />
   </p>
@@ -67,7 +66,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Username GitHub Anda telah diisi otomatis -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RicoRafael&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2196F3" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RicoRafael&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=2196F3" alt="Top Languages" width="48%" />
 </p>
@@ -77,11 +75,6 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <!-- 
-    UNTUK MENGAKTIFKAN ANIMASI ULAR INI:
-    Anda perlu mensetup GitHub Action di repository Anda. 
-    Ganti 'YOUR_GITHUB_USERNAME' dengan username Anda jika Action sudah disetup.
-  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicoRafael/ricorafael/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicoRafael/ricorafael/output/github-contribution-grid-snake.svg">
