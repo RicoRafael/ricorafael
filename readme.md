@@ -28,8 +28,7 @@
 - 🔭 I’m currently building robust projects that sit at the intersection of **Finance** and **Code**.
 - 🌱 I’m currently diving deeper into **Backend Architecture, Data Processing, and Financial Modeling**.
 - 💼 I focus on combining analytical financial skills with technical development to build impactful tools.
-- 📫 How to reach me: **[GANTI DENGAN EMAIL/LINK KONTAK ANDA]**
-- ⚡ Fun fact / Hobby: **[GANTI DENGAN HOBI/MINAT UNIK ANDA]**
+- ⚡ Fun fact & Hobby: **Turning caffeine into code and creating something genuinely useful for others!** ☕✨
 
 ---
 
